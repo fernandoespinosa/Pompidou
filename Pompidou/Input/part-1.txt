@@ -1,0 +1,5822 @@
+﻿content=
+	
+<div id="eventsWrapper">
+	
+	<div id="innerEventsWrapper">
+	
+		
+		
+		<h1 id="eventCategoryHeader">
+			<a id="categoryHeaderLink" href="http://www.sportsinteraction.com/soccer/" title="Soccer">Soccer</a> &gt; <a class="eventTypeHeaderLink" href="http://www.sportsinteraction.com/soccer/world-cup/world-cup-teams/" title="World Cup Teams">World Cup Teams</a>
+		</h1>
+		
+		<div id="eventsProgress" style="display:none;">
+			Loading betting 
+			<img src="/inc/imgs/common/sia/processing_animation.gif" 
+					alt="Loading betting" style="margin-bottom: -1px;" />
+		</div>
+		
+		<div id="eventHeaderOptions">
+		
+			
+
+		</div>
+
+		
+		
+	<div id="counters">
+		
+		
+		<iframe class="facebookLike"
+			data-src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww%2Esportsinteraction%2Ecom%2Fsoccer%2Fworld%2Dcup%2Fworld%2Dcup%2Dteams%2F&amp;layout=button_count&amp;show_faces=true&amp;width=200&amp;action=like&amp;font&amp;colorscheme=dark&amp;height=21"
+			scrolling="no"
+			frameborder="0"
+			allowTransparency="true">
+		</iframe>
+		
+		
+		<div id="plusone-div" class="g-plusone" data-size="medium" data-href="http://www.sportsinteraction.com/soccer/world-cup/world-cup-teams/"></div>
+		
+	</div>
+
+			
+			<div id="eventsInfoLinks">
+
+				
+				<a id="refreshLink" href="http://www.sportsinteraction.com/sportsbook/index.cfm?fixRewrite=true&section=events&eventTypeID=648&sectionRequested=events&ajaxRequest=true">
+					<img src="/inc/imgs/events/sia/refreshBtn.png" 
+						alt="Refresh Odds" title="Refresh Odds" />
+				</a>
+				
+				<a id="printPreviewBtn" href="http://www.sportsinteraction.com/sportsbook/index.cfm?fixRewrite=true&section=eventsPrintPreview&eventTypeID=648&sectionRequested=events&ajaxRequest=true" target="_blank">
+					<img src="/inc/imgs/common/sia/printer.png" alt="Print Preview" title="Print Preview">
+				</a>
+			</div>
+			
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date">Thursday, June 19, 2014</h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-19T19:00"
+								class="time">
+							15:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=584094&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - England</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner19074684" title="Click here to bet on Group Stage">
+			
+								<span class="addRunner" 
+										id="addRunner19074684" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.8357"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stage</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.84</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner19074685" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner19074685" 
+										data-runnerHcap="0"
+										data-runnerPrice="1.9982"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">3.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner19074686" title="Click here to bet on Quarter Final">
+			
+								<span class="addRunner" 
+										id="addRunner19074686" 
+										data-runnerHcap="0"
+										data-runnerPrice="3.9529"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Final</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">4.95</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner19074687" title="Click here to bet on Semi-Final">
+			
+								<span class="addRunner" 
+										id="addRunner19074687" 
+										data-runnerHcap="0"
+										data-runnerPrice="16"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi-Final</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">17.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner19074688" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner19074688" 
+										data-runnerHcap="0"
+										data-runnerPrice="22"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">23.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner19074689" title="Click here to bet on Winner">
+			
+								<span class="addRunner" 
+										id="addRunner19074689" 
+										data-runnerHcap="0"
+										data-runnerPrice="28"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winner</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">29.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-19T19:00"
+								class="time">
+							15:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=570434&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Uruguay</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18309652" title="Click here to bet on Group Stages">
+			
+								<span class="addRunner" 
+										id="addRunner18309652" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.1226"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stages</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.12</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18309653" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18309653" 
+										data-runnerHcap="0"
+										data-runnerPrice="9"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">10.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18309654" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18309654" 
+										data-runnerHcap="0"
+										data-runnerPrice="11"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">12.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18309661" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18309661" 
+										data-runnerHcap="0"
+										data-runnerPrice="33"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">34.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18309662" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18309662" 
+										data-runnerHcap="0"
+										data-runnerPrice="33"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">34.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18309665" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18309665" 
+										data-runnerHcap="0"
+										data-runnerPrice="50"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">51.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-19T22:00"
+								class="time">
+							18:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=570383&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Greece</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18308664" title="Click here to bet on Group Stages">
+			
+								<span class="addRunner" 
+										id="addRunner18308664" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.1012"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stages</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.10</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308665" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18308665" 
+										data-runnerHcap="0"
+										data-runnerPrice="5.9465"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">6.95</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308666" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308666" 
+										data-runnerHcap="0"
+										data-runnerPrice="20"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">21.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18308667" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308667" 
+										data-runnerHcap="0"
+										data-runnerPrice="50"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">51.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308668" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18308668" 
+										data-runnerHcap="0"
+										data-runnerPrice="250"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">251.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308669" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18308669" 
+										data-runnerHcap="0"
+										data-runnerPrice="500"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">501.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-19T22:00"
+								class="time">
+							18:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=570389&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Japan</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18308726" title="Click here to bet on Group Stages">
+			
+								<span class="addRunner" 
+										id="addRunner18308726" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.16"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stages</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.16</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308727" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18308727" 
+										data-runnerHcap="0"
+										data-runnerPrice="6.0049"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">7.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308728" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308728" 
+										data-runnerHcap="0"
+										data-runnerPrice="14"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">15.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18308729" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308729" 
+										data-runnerHcap="0"
+										data-runnerPrice="40"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">41.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308730" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18308730" 
+										data-runnerHcap="0"
+										data-runnerPrice="98"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">99.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308731" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18308731" 
+										data-runnerHcap="0"
+										data-runnerPrice="200"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">201.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date">Friday, June 20, 2014</h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-20T16:00"
+								class="time">
+							12:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=568670&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Costa Rica</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18235588" title="Click here to bet on Group Stage">
+			
+								<span class="addRunner" 
+										id="addRunner18235588" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.6165"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stage</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.62</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235589" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18235589" 
+										data-runnerHcap="0"
+										data-runnerPrice="1.9067"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">2.91</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235590" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18235590" 
+										data-runnerHcap="0"
+										data-runnerPrice="7.1601"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">8.16</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18235591" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18235591" 
+										data-runnerHcap="0"
+										data-runnerPrice="39"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">40.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235592" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18235592" 
+										data-runnerHcap="0"
+										data-runnerPrice="152"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">153.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235593" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18235593" 
+										data-runnerHcap="0"
+										data-runnerPrice="312"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">313.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-20T16:00"
+								class="time">
+							12:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=570384&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Holland</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18308681" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18308681" 
+										data-runnerHcap="0"
+										data-runnerPrice="1.1"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">2.10</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308682" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308682" 
+										data-runnerHcap="0"
+										data-runnerPrice="2.5"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">3.50</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308683" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308683" 
+										data-runnerHcap="0"
+										data-runnerPrice="3.3"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">4.30</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18308684" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18308684" 
+										data-runnerHcap="0"
+										data-runnerPrice="9"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">10.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308685" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18308685" 
+										data-runnerHcap="0"
+										data-runnerPrice="9"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">10.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+								<li class="runner">
+									&nbsp;
+								</li>
+							
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-20T16:00"
+								class="time">
+							12:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=570387&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Italy</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18308714" title="Click here to bet on Group Stages">
+			
+								<span class="addRunner" 
+										id="addRunner18308714" 
+										data-runnerHcap="0"
+										data-runnerPrice="6.3283"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stages</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">7.33</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308715" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18308715" 
+										data-runnerHcap="0"
+										data-runnerPrice="1.9042"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">2.90</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308716" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308716" 
+										data-runnerHcap="0"
+										data-runnerPrice="2.4038"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">3.40</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18308717" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308717" 
+										data-runnerHcap="0"
+										data-runnerPrice="5.2357"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">6.24</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308718" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18308718" 
+										data-runnerHcap="0"
+										data-runnerPrice="10"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">11.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308719" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18308719" 
+										data-runnerHcap="0"
+										data-runnerPrice="10"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">11.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-20T19:00"
+								class="time">
+							15:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=568691&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - France</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18236118" title="Click here to bet on Group Stage">
+			
+								<span class="addRunner" 
+										id="addRunner18236118" 
+										data-runnerHcap="0"
+										data-runnerPrice="8"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stage</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">9.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18236119" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18236119" 
+										data-runnerHcap="0"
+										data-runnerPrice="1.5138"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">2.51</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18236120" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18236120" 
+										data-runnerHcap="0"
+										data-runnerPrice="2.2426"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">3.24</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18236121" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18236121" 
+										data-runnerHcap="0"
+										data-runnerPrice="4.5458"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">5.55</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18236122" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18236122" 
+										data-runnerHcap="0"
+										data-runnerPrice="12"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">13.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18236123" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18236123" 
+										data-runnerHcap="0"
+										data-runnerPrice="15"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">16.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-20T19:00"
+								class="time">
+							15:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=570432&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Switzerland</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18309373" title="Click here to bet on Group Stages">
+			
+								<span class="addRunner" 
+										id="addRunner18309373" 
+										data-runnerHcap="0"
+										data-runnerPrice="4.5061"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stages</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">5.51</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18309374" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18309374" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.6084"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.61</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18309375" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18309375" 
+										data-runnerHcap="0"
+										data-runnerPrice="3.5041"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">4.50</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18309376" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18309376" 
+										data-runnerHcap="0"
+										data-runnerPrice="12"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">13.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18309377" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18309377" 
+										data-runnerHcap="0"
+										data-runnerPrice="30"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">31.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18309378" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18309378" 
+										data-runnerHcap="0"
+										data-runnerPrice="100"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">101.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-20T22:00"
+								class="time">
+							18:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=568690&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Equador</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18236112" title="Click here to bet on Group Stage">
+			
+								<span class="addRunner" 
+										id="addRunner18236112" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.14"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stage</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.14</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18236113" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18236113" 
+										data-runnerHcap="0"
+										data-runnerPrice="5.5"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">6.50</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18236114" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18236114" 
+										data-runnerHcap="0"
+										data-runnerPrice="20"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">21.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18236115" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18236115" 
+										data-runnerHcap="0"
+										data-runnerPrice="60"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">61.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18236116" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18236116" 
+										data-runnerHcap="0"
+										data-runnerPrice="150"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">151.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18236117" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18236117" 
+										data-runnerHcap="0"
+										data-runnerPrice="175"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">176.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-20T22:00"
+								class="time">
+							18:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=570385&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Honduras</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18308688" title="Click here to bet on Group Stages">
+			
+								<span class="addRunner" 
+										id="addRunner18308688" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.02"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stages</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.02</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308689" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18308689" 
+										data-runnerHcap="0"
+										data-runnerPrice="20"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">21.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308690" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308690" 
+										data-runnerHcap="0"
+										data-runnerPrice="100"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">101.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18308691" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308691" 
+										data-runnerHcap="0"
+										data-runnerPrice="300"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">301.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308692" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18308692" 
+										data-runnerHcap="0"
+										data-runnerPrice="500"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">501.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308693" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18308693" 
+										data-runnerHcap="0"
+										data-runnerPrice="1000"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1001.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date">Saturday, June 21, 2014</h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-21T16:00"
+								class="time">
+							12:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=568656&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Argentina</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18235332" title="Click here to bet on Group Stage">
+			
+								<span class="addRunner" 
+										id="addRunner18235332" 
+										data-runnerHcap="0"
+										data-runnerPrice="34"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stage</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">35.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235333" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18235333" 
+										data-runnerHcap="0"
+										data-runnerPrice="3.3784"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">4.38</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235334" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18235334" 
+										data-runnerHcap="0"
+										data-runnerPrice="2.9098"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">3.91</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18235335" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18235335" 
+										data-runnerHcap="0"
+										data-runnerPrice="3.7619"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">4.76</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235336" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18235336" 
+										data-runnerHcap="0"
+										data-runnerPrice="5.2009"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">6.20</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235337" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18235337" 
+										data-runnerHcap="0"
+										data-runnerPrice="3.1767"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">4.18</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-21T16:00"
+								class="time">
+							12:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=570386&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Iran</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18308700" title="Click here to bet on Group Stages">
+			
+								<span class="addRunner" 
+										id="addRunner18308700" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.1001"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stages</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.10</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308701" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18308701" 
+										data-runnerHcap="0"
+										data-runnerPrice="7.0257"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">8.03</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308702" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308702" 
+										data-runnerHcap="0"
+										data-runnerPrice="22"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">23.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18308703" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308703" 
+										data-runnerHcap="0"
+										data-runnerPrice="100"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">101.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308705" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18308705" 
+										data-runnerHcap="0"
+										data-runnerPrice="500"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">501.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308708" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18308708" 
+										data-runnerHcap="0"
+										data-runnerPrice="624"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">625.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-21T19:00"
+								class="time">
+							15:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=568692&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Germany</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18236429" title="Click here to bet on Group Stage">
+			
+								<span class="addRunner" 
+										id="addRunner18236429" 
+										data-runnerHcap="0"
+										data-runnerPrice="25"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stage</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">26.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18236430" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18236430" 
+										data-runnerHcap="0"
+										data-runnerPrice="3.2373"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">4.24</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18236431" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18236431" 
+										data-runnerHcap="0"
+										data-runnerPrice="3.8164"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">4.82</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18236432" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18236432" 
+										data-runnerHcap="0"
+										data-runnerPrice="2.7493"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">3.75</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18236433" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18236433" 
+										data-runnerHcap="0"
+										data-runnerPrice="5.5254"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">6.53</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18236434" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18236434" 
+										data-runnerHcap="0"
+										data-runnerPrice="3.3513"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">4.35</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-21T19:00"
+								class="time">
+							15:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=570382&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Ghana</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18308601" title="Click here to bet on Group Stages">
+			
+								<span class="addRunner" 
+										id="addRunner18308601" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.04"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stages</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.04</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308602" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18308602" 
+										data-runnerHcap="0"
+										data-runnerPrice="14"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">15.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308603" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308603" 
+										data-runnerHcap="0"
+										data-runnerPrice="25"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">26.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18308604" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308604" 
+										data-runnerHcap="0"
+										data-runnerPrice="100"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">101.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308605" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18308605" 
+										data-runnerHcap="0"
+										data-runnerPrice="250"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">251.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308606" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18308606" 
+										data-runnerHcap="0"
+										data-runnerPrice="300"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">301.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-21T22:00"
+								class="time">
+							18:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=568660&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Bosnia - Herzegovina</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18235380" title="Click here to bet on Group Stage">
+			
+								<span class="addRunner" 
+										id="addRunner18235380" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.8421"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stage</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.84</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235381" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18235381" 
+										data-runnerHcap="0"
+										data-runnerPrice="1.7076"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">2.71</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235382" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18235382" 
+										data-runnerHcap="0"
+										data-runnerPrice="5.5511"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">6.55</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18235383" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18235383" 
+										data-runnerHcap="0"
+										data-runnerPrice="18"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">19.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235384" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18235384" 
+										data-runnerHcap="0"
+										data-runnerPrice="61"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">62.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235385" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18235385" 
+										data-runnerHcap="0"
+										data-runnerPrice="178"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">179.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-21T22:00"
+								class="time">
+							18:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=570398&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Nigeria</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18308985" title="Click here to bet on Group Stages">
+			
+								<span class="addRunner" 
+										id="addRunner18308985" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.2931"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stages</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.29</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308986" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18308986" 
+										data-runnerHcap="0"
+										data-runnerPrice="4.0684"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">5.07</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308987" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308987" 
+										data-runnerHcap="0"
+										data-runnerPrice="12"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">13.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18308988" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18308988" 
+										data-runnerHcap="0"
+										data-runnerPrice="51"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">52.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308989" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18308989" 
+										data-runnerHcap="0"
+										data-runnerPrice="178"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">179.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18308990" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18308990" 
+										data-runnerHcap="0"
+										data-runnerPrice="300"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">301.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date">Sunday, June 22, 2014</h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-22T16:00"
+								class="time">
+							12:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=568659&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Belgium</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18235362" title="Click here to bet on Group Stage">
+			
+								<span class="addRunner" 
+										id="addRunner18235362" 
+										data-runnerHcap="0"
+										data-runnerPrice="6.0295"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stage</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">7.03</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235363" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18235363" 
+										data-runnerHcap="0"
+										data-runnerPrice="1.3106"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">2.31</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235364" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18235364" 
+										data-runnerHcap="0"
+										data-runnerPrice="2.407"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">3.41</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18235365" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18235365" 
+										data-runnerHcap="0"
+										data-runnerPrice="6.4331"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">7.43</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235366" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18235366" 
+										data-runnerHcap="0"
+										data-runnerPrice="12"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">13.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235367" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18235367" 
+										data-runnerHcap="0"
+										data-runnerPrice="19"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">20.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-22T16:00"
+								class="time">
+							12:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=570405&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Russia</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18309030" title="Click here to bet on Group Stages">
+			
+								<span class="addRunner" 
+										id="addRunner18309030" 
+										data-runnerHcap="0"
+										data-runnerPrice="1.1723"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stages</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">2.17</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18309031" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18309031" 
+										data-runnerHcap="0"
+										data-runnerPrice="1.3181"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">2.32</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18309032" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18309032" 
+										data-runnerHcap="0"
+										data-runnerPrice="6.5796"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">7.58</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18309033" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18309033" 
+										data-runnerHcap="0"
+										data-runnerPrice="16"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">17.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18309034" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18309034" 
+										data-runnerHcap="0"
+										data-runnerPrice="41"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">42.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18309035" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18309035" 
+										data-runnerHcap="0"
+										data-runnerPrice="101"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">102.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+
+				<div itemscope itemtype="http://schema.org/SportsEvent" class="game">
+				
+					
+						<h2 class="date"></h2>
+					
+				
+					<div class="gameHeaderTopBgHook"></div>
+				
+					<h3 class="gameHeader">
+		
+						
+						<span 
+								itemprop="startDate" content="2014-06-22T19:00"
+								class="time">
+							15:00 
+						</span>
+						
+								
+								
+										
+						<span class="title">
+							
+									<link itemprop="url" href="http://www.sportsinteraction.com/sportsbook/index.cfm?section=events&amp;eventTypeID=648&amp;gameID=568657&amp;moreBets=true" />
+								<span itemprop="name">2014 World Cup - Algeria</span>			
+							
+						</span>
+						
+						
+					 	<span class="liveBettingOnGame">
+											
+						</span>	
+					
+											
+	 					
+						
+																	
+							<span class="betOpinionLink">
+								
+									&nbsp; 
+								
+							</span>					
+							
+							
+
+							
+					</h3>
+					
+				
+					
+				<div class="gameBettingContent">	
+						
+					
+					
+			
+					<span class="bettingType">Stage of Elimination </span>
+					
+					
+							</ul>
+								
+								
+								<ul  class="runnerListColumnOne">
+							
+			
+							
+							<li class="runner " id="runner18235344" title="Click here to bet on Group Stage">
+			
+								<span class="addRunner" 
+										id="addRunner18235344" 
+										data-runnerHcap="0"
+										data-runnerPrice="0.11"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Group Stage</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1.11</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235345" title="Click here to bet on 2nd Round">
+			
+								<span class="addRunner" 
+										id="addRunner18235345" 
+										data-runnerHcap="0"
+										data-runnerPrice="5.5"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">2nd Round</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">6.50</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235346" title="Click here to bet on Quarter Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18235346" 
+										data-runnerHcap="0"
+										data-runnerPrice="33"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Quarter Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">34.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+							
+								<ul  class="runnerListColumnTwo">
+							
+			
+							
+							<li class="runner " id="runner18235347" title="Click here to bet on Semi Finals">
+			
+								<span class="addRunner" 
+										id="addRunner18235347" 
+										data-runnerHcap="0"
+										data-runnerPrice="125"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Semi Finals</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">126.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235348" title="Click here to bet on Runners Up">
+			
+								<span class="addRunner" 
+										id="addRunner18235348" 
+										data-runnerHcap="0"
+										data-runnerPrice="500"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Runners Up</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">501.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+			
+							
+							<li class="runner " id="runner18235349" title="Click here to bet on Winners">
+			
+								<span class="addRunner" 
+										id="addRunner18235349" 
+										data-runnerHcap="0"
+										data-runnerPrice="1000"
+										onclick="SIA.betcard.addBet(this);SIA.eventsUtils.scrollToBetcard();" 
+										onmouseover="$(this).addClassName('highlight');" 
+										onmouseout="$(this).removeClassName('highlight');">
+									
+									
+									<span class="name">Winners</span>
+									
+									<span class="handicap">
+										
+											&nbsp; 
+										
+									</span>
+				
+									
+									<span class="price">1001.00</span>
+									
+									
+										<span class="betBtn"></span>
+									
+												
+								</span>
+							
+							
+							
+						</li>
+		
+						
+							</ul>
+						
+			
+				</div> 
+			
+				
+			
+			
+				
+					<div class="gameBettingContentBottomBgHook"></div>
+				</div>
+			
+								
+							
+								<div id="scrollMarker" class="scrollMarkerClass" style="height: 1px; width:100%; float: left; clear: both;">
+									<div id="eventTypeID=648&batchLastRowID=119" class="scrollParams" style="height: 1px; width: 100%; float: left; clear: both;"></div>
+								</div>
+								
+							
+		
+	</div>
+	
+
+
+	
+	
+	
+</div>
+
